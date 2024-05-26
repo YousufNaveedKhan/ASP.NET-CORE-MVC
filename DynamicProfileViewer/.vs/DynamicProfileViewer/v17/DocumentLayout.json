@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\92331\\source\\repos\\ASP.NET CORE MVC\\DynamicProfileViewer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78CDF866-EDDF-4FC0-9188-88F9E13F6464}|DynamicProfileViewer\\DynamicProfileViewer.csproj|c:\\users\\92331\\source\\repos\\asp.net core mvc\\dynamicprofileviewer\\dynamicprofileviewer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78CDF866-EDDF-4FC0-9188-88F9E13F6464}|DynamicProfileViewer\\DynamicProfileViewer.csproj|solutionrelative:dynamicprofileviewer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\92331\\source\\repos\\ASP.NET CORE MVC\\DynamicProfileViewer\\DynamicProfileViewer\\Program.cs",
+              "RelativeDocumentMoniker": "DynamicProfileViewer\\Program.cs",
+              "ToolTip": "C:\\Users\\92331\\source\\repos\\ASP.NET CORE MVC\\DynamicProfileViewer\\DynamicProfileViewer\\Program.cs",
+              "RelativeToolTip": "DynamicProfileViewer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T14:53:50.985Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
