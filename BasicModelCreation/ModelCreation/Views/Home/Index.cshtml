@@ -1,0 +1,29 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+    var companions = ViewData["myCompanions"] as List<CompanionsDetailsClass>;
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome</h1>
+    <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>
+
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Date Of Birth</th>
+        <th>Date Of Death/Martyred</th>
+        <th>Place Of Birth</th>
+    </tr>
+
+    @foreach (var std in companions)
+    {
+        <tr>
+            <td>@std.Name</td>
+            <td>@std.DateOfBirth</td>
+            <td>@std.DateOfDeath</td>
+            <td>@std.PlaceOfBirth</td>
+        </tr>
+    }
+</table>
+
